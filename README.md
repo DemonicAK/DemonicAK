@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akar0987
 - 👀 I’m interested in AI AND HACKING 
-- 🌱 I’m currently learning PYTHON AND C
+- 🌱 I’m currently learning PYTHON AND C++
 - 💞️ I’m looking to collaborate on PYTHON Projects 
 - 📫 mail me at arijitkar29@gmail.com
 
