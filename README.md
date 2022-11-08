@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arijit Kar
-- 👀 I’m interested in Machine learning models...and web devlopment
+- 👀 I’m interested in Web devlopment and Machine learning models 
 - 🌱 I’m currently learning web development and DSA
-- 💞️ I’m looking to collaborate on >..........
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 mail me at arijitkar29@gmail.com
 
 <!---
