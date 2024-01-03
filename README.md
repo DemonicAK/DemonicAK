@@ -1,5 +1,10 @@
 <!-- DemonicAK/DemonicAK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+🔗 GitHub README Template: https://github.com/reddevill007/Github-Profile-Readme-guide    // one of the tut to follow (https://youtu.be/-zP_F3SSxoE?si=hVUbgZakYPlH4NZy)
+🔗 Markdown Badges: https://github.com/Ileriayo/markdown-badges
+🔗 GitHub README Stats: https://github.com/anuraghazra/github-readme-stats
+🔗 GitHub Profile Trophy: https://github.com/ryo-ma/github-profile-trophy
+🔗 GitHub Streak Stat: https://github-readme-streak-stats.herokuapp.com/demo/
 https://www.profileme.dev/create-profile  use this website to make your profile -->
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arijit Kar
