@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arijit Kar</h1>
-<h3 align="center">**Data Scientist | Machine Learning Engineer | Software Engineer**</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demonicak&label=Profile%20views&color=0e75b6&style=flat" alt="demonicak" /> </p>
 
