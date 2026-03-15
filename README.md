@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Inside SGD, Momentum, and Adam](https://arijitkar-0x7.medium.com/inside-sgd-momentum-and-adam-7ef64a68a244?source=rss-fddd419b665d------2)
 - [Linear Regression: Intuition, Assumptions, Math — and How to Build It From Scratch](https://arijitkar-0x7.medium.com/linear-regression-intuition-assumptions-math-and-how-to-build-it-from-scratch-dc5427ad6cb2?source=rss-fddd419b665d------2)
 - [From Model Spaghetti to Clean MLOps: Why the Strategy Pattern is a Game Changer for MLEs](https://arijitkar-0x7.medium.com/from-model-spaghetti-to-clean-mlops-why-the-strategy-pattern-is-a-game-changer-for-mles-51b02900ee27?source=rss-fddd419b665d------2)
 <!-- BLOG-POST-LIST:END -->
